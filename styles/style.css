@@ -9,8 +9,8 @@
 
     --fonte-primaria: 'Krona One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
-    --fonte-menor: 24px;
-    --fonte-maior: 36px;
+    --fonte-menor: 1.5rem;
+    --fonte-maior: 2.25rem;
     --peso-menor: 400;
     --peso-maior: 600;
 }
